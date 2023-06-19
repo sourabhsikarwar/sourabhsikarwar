@@ -24,5 +24,5 @@
 <div align="center">
 <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsikarwar&" alt="sourabhsikarwar" /></p>
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhsikarwar&show_icons=true&locale=en&layout=compact" alt="sourabhsikarwar" /></p>
-<p><img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300'></p>
+<p><img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='40%'></p>
 </div>
